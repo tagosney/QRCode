@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+
+h1{
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.cardContainer{
+    position: fixed;
+    top: 15%;
+    left: 38%;
+    
+} 
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 4px rgba(0.0.0.0.2);    
+    max-width: 300px ;
+    margin:auto;    
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+
